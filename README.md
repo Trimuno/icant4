@@ -21,7 +21,6 @@ ICant4 is a **Skyblock utility mod** designed to assist players by automating an
 
 ## ⚙️ Commands
 - `/ic4 toggle` → Turn the module on/off.
-- `/ic4 settings` → Access configuration options.
 
 ## ⚠️ Important Notice
 This mod **may violate Hypixel’s rules** regarding automation. **Use at your own risk!**
